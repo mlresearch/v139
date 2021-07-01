@@ -1,0 +1,84 @@
+---
+booktitle: Proceedings of the 38th International Conference on Machine Learning
+shortname: ICML
+year: '2021'
+volume: '139'
+start: 2021-07-18
+end: 2021-07-24
+published: 2021-07-01
+conference_number: '38'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICML2021
+month: 0
+cycles: false
+bibtex_editor: Meila, Marina and Zhang, Tong
+editor:
+- given: Marina
+  family: Meila
+- given: Tong
+  family: Zhang
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 38th International Conference on Machine Learning
+    Held in Virtual on 18-24 July 2021
+
+  Published as Volume 139 by the Proceedings of Machine Learning Research on 01 July 2021.
+
+  Volume Edited by:
+    Marina Meila
+    Tong Zhang
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 18--24 Jul
+url: http://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v139"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v139
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v139
+email: ''
+conference:
+  name: International Conference on Machine Learning
+  url: https://icml.cc/
+  location: Virtual
+  dates:
+  - 2021-07-18
+  - 2021-07-19
+  - 2021-07-20
+  - 2021-07-21
+  - 2021-07-22
+  - 2021-07-23
+  - 2021-07-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v139/icml21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v139/icml21.bib
