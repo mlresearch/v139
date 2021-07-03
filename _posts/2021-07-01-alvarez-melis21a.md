@@ -23,11 +23,11 @@ lastpage: 230
 page: 219-230
 order: 219
 cycles: false
-bibtex_author: Alvarez-Melis, David and Fusi, Nicolo
+bibtex_author: Alvarez-Melis, David and Fusi, Nicol\`o
 author:
 - given: David
   family: Alvarez-Melis
-- given: Nicolo
+- given: Nicolò
   family: Fusi
 date: 2021-07-01
 address:
