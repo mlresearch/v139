@@ -12,7 +12,7 @@ abstract: 'Motivated by emerging applications such as live-streaming e-commerce,
   at the order of $1-\mathcal O(1/\sqrt{K})$, which is asymptotically optimal when
   $K$ grows to infinity. For the online problem when the model parameters are unknown
   and need to be learned, we design an Upper Confidence Bound (UCB) based policy that
-  approximately has $\widetilde\mathcal O(N\sqrt{T})$ regret against the offline benchmark.
+  approximately has $\widetilde{\mathcal O}(N\sqrt{T})$ regret against the offline benchmark.
   Our framework and policy design may have the potential to be adapted into other
   offline planning and online learning applications with non-stationary and recovering
   rewards.'
