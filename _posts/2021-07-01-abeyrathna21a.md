@@ -37,7 +37,7 @@ order: 10
 cycles: false
 bibtex_author: Abeyrathna, Kuruge Darshana and Bhattarai, Bimal and Goodwin, Morten
   and Gorji, Saeed Rahimi and Granmo, Ole-Christoffer and Jiao, Lei and Saha, Rupsa
-  and Yadav, Rohan K
+  and Yadav, Rohan K.
 author:
 - given: Kuruge Darshana
   family: Abeyrathna
@@ -53,7 +53,7 @@ author:
   family: Jiao
 - given: Rupsa
   family: Saha
-- given: Rohan K
+- given: Rohan K.
   family: Yadav
 date: 2021-07-01
 address:
