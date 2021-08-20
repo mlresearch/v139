@@ -29,14 +29,15 @@ lastpage: 263
 page: 254-263
 order: 254
 cycles: false
-bibtex_author: Ambrogioni, Luca and Silvestri, Gianluigi and Van Gerven, Marcel
+bibtex_author: Ambrogioni, Luca and Silvestri, Gianluigi and van Gerven, Marcel
 author:
 - given: Luca
   family: Ambrogioni
 - given: Gianluigi
   family: Silvestri
 - given: Marcel
-  family: Van Gerven
+  prefix: van
+  family: Gerven
 date: 2021-07-01
 address:
 container-title: Proceedings of the 38th International Conference on Machine Learning
