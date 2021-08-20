@@ -30,7 +30,7 @@ page: 792-802
 order: 792
 cycles: false
 bibtex_author: Berrevoets, Jeroen and Alaa, Ahmed and Qian, Zhaozhi and Jordon, James
-  and Gimson, Alexander E.S. and Van Der Schaar, Mihaela
+  and Gimson, Alexander E. S. and van der Schaar, Mihaela
 author:
 - given: Jeroen
   family: Berrevoets
@@ -40,10 +40,11 @@ author:
   family: Qian
 - given: James
   family: Jordon
-- given: Alexander E.S.
+- given: Alexander E. S.
   family: Gimson
 - given: Mihaela
-  family: Van Der Schaar
+  family: Schaar
+  prefix: van der
 date: 2021-07-01
 address:
 container-title: Proceedings of the 38th International Conference on Machine Learning
